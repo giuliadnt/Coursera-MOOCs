@@ -1,2 +1,3 @@
-# CourseraML
-assignment for Coursera Andrew Ng's ML class
+# Coursera
+Completed assignments from following moocs:
+*Applied Text Mining with Python
